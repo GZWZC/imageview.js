@@ -12,3 +12,7 @@
 | 参数       |  说明   |  备注   | 
 | --------  | ----- |  -----   | 
 | url     | 图片地址  |   必选   | 
+
+<img src="https://github.com/GZWZC/imageview.js/blob/master/WechatIMG10521552377285_.pic_hd.jpg" width='375' height='667'/>
+<img src="https://github.com/GZWZC/imageview.js/blob/master/WechatIMG10531552377295_.pic_hd.jpg" width='375' height='667'/>
+<img src="https://github.com/GZWZC/imageview.js/blob/master/WechatIMG10541552377309_.pic_hd.jpg" width='375' height='667'/>
