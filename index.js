@@ -1,4 +1,5 @@
 
+
 ;(function (win, doc) {
 var body = doc.body,
     hammerjsSrc = 'hammer.min.js',       // Hammer库地址
